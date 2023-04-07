@@ -1,0 +1,15 @@
+{
+  "name": "@anil-gowda1/friday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url":"git://github.com/anil-gowda1//final-git.git."
+  },
+  "license": "ISC"
+}
